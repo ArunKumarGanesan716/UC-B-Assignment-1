@@ -33,12 +33,12 @@ This helped me arrive with a clean data frame.
 
 *   The next check was to check for duplicated – there were about 74 duplicates - But looking at the data frame it is impossible to determine if these are duplicates since there are no unique identifiers. I decided to keep the duplicates
 *   Some of the visualization for Coupon and Temperature
-
-![Picture8](https://github.com/user-attachments/assets/8ba2ab88-70ad-4c4b-8b83-0aeb4d0eb2b3)
-![Picture7](https://github.com/user-attachments/assets/1bf4afae-4813-4211-ba52-92777264087c)
-![Picture6](https://github.com/user-attachments/assets/40e25b9e-c485-4647-9209-6399378f7254)
-![Picture5](https://github.com/user-attachments/assets/51f9e4e6-e783-44d2-8b11-309ab3fea900)
+*   
 ![Picture4](https://github.com/user-attachments/assets/25c33eb0-1628-428e-a5e1-1a4134d8bbd3)
+![Picture5](https://github.com/user-attachments/assets/51f9e4e6-e783-44d2-8b11-309ab3fea900)
+![Picture6](https://github.com/user-attachments/assets/40e25b9e-c485-4647-9209-6399378f7254)
+![Picture7](https://github.com/user-attachments/assets/1bf4afae-4813-4211-ba52-92777264087c)
+![Picture8](https://github.com/user-attachments/assets/8ba2ab88-70ad-4c4b-8b83-0aeb4d0eb2b3)
 
 *   The next step was the bar analysis
 
@@ -107,10 +107,10 @@ There were some noticeable patterns
 
 Then I build some facet charts
 
-![Picture17](https://github.com/user-attachments/assets/4375b619-4d7f-40fb-a0bc-5fb702c03d67)
-![Picture16](https://github.com/user-attachments/assets/5d93a48f-acf4-4e2a-9605-236fb396bc8e)
-![Picture15](https://github.com/user-attachments/assets/ac6ae4b5-b611-4b90-818a-302fcdd5ee3a)
 ![Picture14](https://github.com/user-attachments/assets/b422a2ee-68f4-4d3e-81ae-83a8863443ae)
+![Picture15](https://github.com/user-attachments/assets/ac6ae4b5-b611-4b90-818a-302fcdd5ee3a)
+![Picture16](https://github.com/user-attachments/assets/5d93a48f-acf4-4e2a-9605-236fb396bc8e)
+![Picture17](https://github.com/user-attachments/assets/4375b619-4d7f-40fb-a0bc-5fb702c03d67)
 
 Note: The Plotly chats do not show up in GIT
 
