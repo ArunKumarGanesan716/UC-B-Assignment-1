@@ -19,7 +19,7 @@ Few standout observations were
 
 ![Picture1](https://github.com/user-attachments/assets/f78d4dab-b8c0-41e5-a358-5ec9cff7dba4)
 
-*   Of which the Car was the most significant with over 12576 - There cannot be any assumptions if the individual has a car and not and it was a statistically large number to ignore
+*   Of which the Car was the most significant with over 12576 - There cannot be any assumptions if the individual has a car or not and it was a statistically large number to ignore
 *   I decided to remove that column from the data frame
 *   Then I created a missing data heat map with the remaining columns
 
